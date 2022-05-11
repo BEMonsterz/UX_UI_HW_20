@@ -1,0 +1,15 @@
+
+/* Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+@import url("materialdesignicons.min.css");
+
+/* PLUGIN CSS */
+@import url("../assets/jquery.mCustomScrollbar/jquery.mCustomScrollbar.css");
+
+/* MAIN CSS */
+@import url("bootstrap.min.css");
+@import url("typography.css");
+@import url("theme.css");
+@import url("responsive.css");
+@import url('color.css');
+@import url("custom.css");
